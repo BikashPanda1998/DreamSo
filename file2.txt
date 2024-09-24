@@ -1,1 +1,2 @@
 for add to stageing git add filename
+form stagging to local repo git commit -m "valid message"
