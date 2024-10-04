@@ -2,3 +2,4 @@ for add to stageing git add filename
 form stagging to local repo git commit -m "valid message"
 after ontime commit in local repo if you modify in file in workspace
 then you can using "git commit -a -m 'message'" to direct commit in local repo
+how to resolve when any conflict happen at the time of merging
